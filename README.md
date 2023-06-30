@@ -6,6 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/resende_jss)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=resendejss&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resendejss&layout=compact&langs_count=16&theme=radical)
 
 ### Tecnologias que eu uso no meu dia
 <div styLe="display: inline_block"><br>
@@ -17,3 +18,5 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
+
+![Snake animation](https://github.com/resendejss/resendejss/blob/output/github-contribution-grid-snake.svg)
