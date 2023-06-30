@@ -18,5 +18,3 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
-
-![Snake animation](https://github.com/resendejss/resendejss/blob/output/github-contribution-grid-snake.svg)
